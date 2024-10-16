@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #FFD9EC;
+}
+
+nav {
+  background-color: #FF69B4;
+  display: flex;
+  justify-content: space-between;
+}
+
+section {
+  color: #E4EEF1;
+  display: flex;
+  width: 30vw;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-right: 50px;
+}
+
+.titulo {
+  justify-content: start;
+  padding-left: 30px;
+}
+
+.texto1 {
+  color: black;
+  display: flex;
+  width: 1216px;
+  height: 377px;
+  top: -181px;
+  left: -584px;
+  padding-left: 30px;
+}
+
+li {
+  list-style: none;
+  font-size: 20px;
+}/*# sourceMappingURL=desafio.css.map */
